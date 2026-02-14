@@ -1,0 +1,17 @@
+{
+    "pack": {
+        "name": "OriginsSMP2",
+        "id": "origins_smp_2",
+        "pack_format": 48,
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 48
+        },
+        "version": "1.0.0",
+        "authors": [
+            "YeremiStar"
+        ],
+        "description": "§6§lOrigins SMP 2 Datapack\n\n§7Un datapack creado para §eOrigins SMP 2§7.\n§7Este proyecto es una especie de §aport§7 del mod §dOrigins++§7 para §bMinecraft 1.21.1§7.",
+        "license": "Yeremistar"
+    }
+}

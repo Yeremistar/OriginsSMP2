@@ -1,0 +1,19 @@
+{
+    "schemaVersion": 1,
+    "environment": "*",
+    "depends": {
+        "fabric-api-base": "*",
+        "fabric": "*",
+        "minecraft": ">=1.21.1",
+        "origins": ">=*"
+    },
+    "name": "OriginsSMP2",
+    "id": "origins_smp_2",
+    "version": "1.0.0",
+    "description": "§6§lOrigins SMP 2 Mod\n\n§7Un mod creado para §eOrigins SMP 2§7.\n§7Este proyecto es una especie de §aport§7 del mod §dOrigins++§7 para §bMinecraft 1.21.1§7.",
+    "license": "Yeremistar",
+    "icon": "pack.png",
+    "authors": [
+        "YeremiStar"
+    ]
+}
